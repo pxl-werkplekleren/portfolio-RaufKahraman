@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import Wpl1InfoView from '../views/Wpl1InfoView.vue'
 import Wpl2InfoView from '../views/Wpl2InfoView.vue'
-
+//
 const routes = [
   {
     path: '/',
