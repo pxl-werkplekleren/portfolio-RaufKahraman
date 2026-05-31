@@ -164,16 +164,54 @@ const xFactorItems = [
           <h2>POKR als realistische groepsopdracht</h2>
 
           <p>
-            Voor Werkplekleren 2 werkte ik met mijn groep aan de POKR-case. We kregen geen volledig
-            afgebakende stap-voor-stap opdracht, maar een beschrijving van een ontwikkelaar. Daaruit
-            moesten we zelf afleiden wat er precies gebouwd en uitgewerkt moest worden.
+            Voor Werkplekleren 2 werkte ik met mijn groep aan de POKR-case. We kregen hiervoor
+            geen volledig afgebakende stap-voor-stap opdracht, maar een beschrijving van een
+            ontwikkelaar. Vanuit die beschrijving moesten we zelf afleiden wat er precies gebouwd,
+            uitgewerkt en georganiseerd moest worden. Dat maakte de start wat onduidelijk, omdat
+            we niet gewoon een kant-en-klare opdracht moesten uitvoeren. We moesten eerst begrijpen
+            wat de bedoeling van de case was, welke onderdelen belangrijk waren en hoe we het project
+            als team haalbaar konden aanpakken.
           </p>
 
           <p>
-            Dat maakte de start wat onduidelijk, maar ook realistischer. In een echte werksituatie
-            krijg je niet altijd perfecte instructies en werk je ook samen met mensen die andere
-            sterktes, tempo's en niveaus van ervaring hebben. WPL2 draaide daardoor niet alleen rond
-            programmeren, maar ook rond plannen, overleggen, taken verdelen en kwaliteit bewaken.
+            De POKR-app is een toepassing waarmee een bedrijf KPI's en doelen kan bijhouden binnen
+            teams. Een KPI is een meetbare eenheid waarmee je prestaties opvolgt, vaak binnen een
+            project of een doorlopend doel. In de case kon een bedrijf meerdere teams hebben en
+            konden teamleden ook in verschillende teams binnen hetzelfde bedrijf zitten. Daardoor
+            werd de structuur snel complex. Het project startte al met een ingewikkelde databank en
+            daarna volgde een stevige .NET API met meer dan 110 endpoints. Dat maakte de case
+            technisch uitdagend en vroeg om duidelijke afspraken, planning en taakverdeling binnen
+            het team.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section id="wpl2-aandeel" class="section alt">
+      <div class="container">
+        <article class="card prose">
+          <p class="eyebrow">Mijn aandeel</p>
+          <h2>Mijn rol binnen de POKR-case</h2>
+
+          <p>
+            Mijn aandeel binnen de POKR-case lag vooral in het zorgvuldig opnemen van mijn taken
+            en het actief meewerken aan de samenwerking binnen de groep. Ik probeerde mijn werk
+            nauwkeurig af te werken en bleef zoeken naar oplossingen wanneer iets technisch of
+            inhoudelijk moeilijk liep. Uit mijn eindreflectie blijkt dat ik veel belang hecht aan
+            kwaliteit en afwerking. Dat hielp mij om kritisch naar het resultaat te kijken en niet
+            zomaar tevreden te zijn met half afgewerkt werk. Tegelijk merkte ik dat dit ook een
+            valkuil kan zijn, omdat ik soms te lang blijf hangen in details.
+          </p>
+
+          <p>
+            Daarnaast probeerde ik rekening te houden met de verschillende niveaus binnen het team.
+            Niet iedereen had evenveel programmeerervaring, waardoor duidelijke afspraken en
+            communicatie belangrijk waren. De daily stand-ups hielpen mij om beter te begrijpen wie
+            waarmee bezig was en waar iemand vastliep. Ik leerde dat samenwerken niet alleen betekent
+            dat iedereen zijn eigen taak uitvoert, maar ook dat je verwachtingen uitspreekt en hulp
+            vraagt wanneer dat nodig is. Voor een volgende WPL wil ik mijn visie nog duidelijker
+            uitleggen, sneller feedback vragen en beter inschatten wanneer iets goed genoeg is binnen
+            de beschikbare tijd.
           </p>
         </article>
       </div>

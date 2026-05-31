@@ -227,6 +227,7 @@
     body:has(#kernkwadrant:target) .nav a[href="#kernkwadrant"],
     body:has(#xfactor:target) .nav a[href="#xfactor"],
     body:has(#wpl2-case:target) .nav a[href="#wpl2-case"],
+    body:has(#wpl2-aandeel:target) .nav a[href="#wpl2-aandeel"],
     body:has(#wpl2-focus:target) .nav a[href="#wpl2-focus"],
     body:has(#wpl2-rollen:target) .nav a[href="#wpl2-rollen"],
     body:has(#wpl2-opdrachten:target) .nav a[href="#wpl2-opdrachten"],

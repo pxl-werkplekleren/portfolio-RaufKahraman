@@ -29,6 +29,7 @@ export const usePortfolioStore = defineStore('portfolio', {
         overviewSectionId: 'wpl2-case',
         links: [
           { label: 'Casebeschrijving', sectionId: 'wpl2-case' },
+          { label: 'Mijn aandeel', sectionId: 'wpl2-aandeel' },
           { label: 'Focus opdracht', sectionId: 'wpl2-focus' },
           { label: 'OLR rollen', sectionId: 'wpl2-rollen' },
           { label: 'Proces', sectionId: 'wpl2-opdrachten' },
