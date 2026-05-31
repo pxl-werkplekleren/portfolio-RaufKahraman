@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-raufkahraman",
+  "version": "1.0.0",
+  "description": "Portfolio website voor WPL1 en WPL2.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxl-werkplekleren/portfolio-RaufKahraman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxl-werkplekleren/portfolio-RaufKahraman/issues"
+  },
+  "homepage": "https://github.com/pxl-werkplekleren/portfolio-RaufKahraman#readme",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "pinia": "^3.0.4",
+    "vite": "^8.0.13",
+    "vue": "^3.5.34",
+    "vue-router": "^5.0.7"
+  }
+}
